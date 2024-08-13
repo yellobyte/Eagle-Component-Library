@@ -13,7 +13,7 @@ Sometimes a lib was found but has been slightly changed in order to fit special 
 Maybe this collection can save some of you a few minutes of time. If you happen to stumble upon it. 
 
 ## List of available components
-If known then the source I got this component from is included in braces. Most of them are available from different sources though.
+If known then the source I got this component from is included in brackets. Most of them are available from different sources though.
 
 ### Connectors, Headers, Sockets, etc.
 * AA/AAA Through-Hole Battery Holder (Ali)
