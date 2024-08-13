@@ -7,10 +7,10 @@ Starting point for an Eagle lib search is usually https://componentsearchengine.
 
 However, in a lot of my projects some components get harvested from old devices and re-used in new ones. Then it's almost impossible to find an Eagle lib for it. This is especially true for many connectors, terminals, chokes etc. Other components don't seem to be exotic but an Eagle lib can't be found on the internet despite a lengthy search.  
 
-Requesting a lib for a special component e.g. on componentsearchengine.com would be an option, but it got to be listed there. If not, you are forced to build your own one.
-Sometimes a lib was found but has been slightly changed in order to fit special project requirements (e.g. keepout/restrict layer added, symbol amended, footprint narrowed/enlarged, etc).
+Requesting a lib for a special component e.g. on componentsearchengine.com would be an option, but it got to be listed there. If not, you are forced to build your own one. Sometimes a lib was found but has been slightly changed in order to fit special project requirements (e.g. keepout/restrict layer added, symbol amended, footprint narrowed/enlarged, etc).  
 
-Maybe this collection can save some of you a few minutes of time. If you happen to stumble upon it. 
+Be aware, this lib might contain errors, so use at your own risk.
+
 
 ## List of available components
 If known then the source I got this component from is included in brackets. Most of them are available from different sources though.
